@@ -1,5 +1,9 @@
 # README
 
+## Missing Files  
+
+The pre-trained model and the face landmark file are not included in this repo. Please leave an issue if you want to get those files.  
+
 ## How to start and configure the prototype?
 
 The prototype is implemented in Python language and due to the complexity of the project, it’s hard to pack-up and generate an executable file. Thus, we’re sorry that anyone who want to run this demo needs a python 3.7 environment and follow the following instructions to setup the project.
