@@ -2,7 +2,9 @@
 
 ## Missing Files  
 
-The pre-trained model and the face landmark file are not included in this repo. Please leave an issue if you want to get those files.  
+The pre-trained model and the face landmark file are not included in this repo. You can download from the link below.  
+link：https://pan.baidu.com/s/1t5Oi_d5vmaWa76VHUC9-hA 
+code：hc21 
 
 ## How to start and configure the prototype?
 
